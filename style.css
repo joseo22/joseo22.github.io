@@ -1,0 +1,34 @@
+.mainbox{
+    width: 800px;
+    margin: auto;
+    padding: 25px;
+    border: 1px solid black;
+    border-radius: 25px
+}
+.title-box{
+    display: flex;
+    flex-direction: row;
+    }
+    .title-box-text{
+        margin-left: 25px;
+    }
+    .job-text{
+        color: yellowgreen;
+    }
+    .float{
+        display: flex;
+        justify-context: space-between;
+    }
+    .sextion-title{
+        border-bottom: 1px solid blue
+    }
+    .sns{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .sns img{
+        margin: 5px;
+    }
+    footer{
+        text-align: context;
+    }
